@@ -1,6 +1,6 @@
 # Case Description
 
-- Objective: In the era of digital streaming, there’s an increasing need to categorize and recommend music based on genres. By analyzing various musical features extracted from tracks, we can delve deeper into their defining patterns. In this music genre classification project, you’ll work with a dataset containing various musical features extracted from tracks across different styles.
+Objective: In the era of digital streaming, there’s an increasing need to categorize and recommend music based on genres. By analyzing various musical features extracted from tracks, we can delve deeper into their defining patterns. In this music genre classification project, you’ll work with a dataset containing various musical features extracted from tracks across different styles.
 
 Please note that while this music genre classification dataset is extensive, it is incomplete. A significant portion of the records lacks specific genre information.
 
